@@ -1,0 +1,27 @@
+[
+    {
+      "id": 1,
+      "name": "John Doe",
+      "favoriteSport": "Football",
+      "accomplishments": "Won the MVP award in 2019",
+      "salary": 50000,
+      "age": 28
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "favoriteSport": "Basketball",
+      "accomplishments": "Led the team to three championships",
+      "salary": 70000,
+      "age": 32
+    },
+    {
+      "id": 3,
+      "name": "Alex Johnson",
+      "favoriteSport": "Soccer",
+      "accomplishments": "Scored 50 goals in a season",
+      "salary": 60000,
+      "age": 25
+    }
+  ]
+  
